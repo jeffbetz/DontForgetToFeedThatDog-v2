@@ -1,0 +1,848 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"da",
+				"data	@data"
+			],
+			[
+				"appli",
+				"application/x"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"arr",
+				"arrow-overlay-right.png	w:32 h:32"
+			],
+			[
+				"placeholder-f",
+				"placeholder-flex-slider-image.png	w:293 h:291"
+			],
+			[
+				"pl",
+				"placeholder-featuredartist-slider-image.png	w:300 h:140"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"icon",
+				"icon-download.png	w:25 h:26"
+			],
+			[
+				"pla",
+				"placeholder-author-thumb.png	w:56 h:55"
+			],
+			[
+				"c",
+				"center  (element)"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"plac",
+				"placeholder-big-show-image.png	w:642 h:360"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bac",
+				"background-origin"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"dott",
+				"dotted-bottom-nav-line.png	w:12 h:27"
+			],
+			[
+				"over",
+				"overflow:   (property)"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"wra",
+				"word-wrap:   (property)"
+			],
+			[
+				"imag",
+				"images/"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"a",
+				"arrow-overlay-left.png	w:32 h:32"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"h",
+				"href	@href"
+			],
+			[
+				"cl",
+				"class=  (attribute)"
+			],
+			[
+				"bd",
+				"bdf:of	border-fit:overflow"
+			],
+			[
+				"f",
+				"for	for (…) {…}"
+			],
+			[
+				"blac",
+				"black-button"
+			],
+			[
+				"col",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bs",
+				"bs	border-style: hidden"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "DontForgetToFeedThatDog-v2.ino",
+			"settings":
+			{
+				"buffer_size": 4570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jbetz/Documents/Arduino/libraries/mthread-master/examples/switch_test/switch_test.pde",
+			"settings":
+			{
+				"buffer_size": 2355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jbetz/Documents/Arduino/libraries/mthread-master/examples/serial_test/serial_test.pde",
+			"settings":
+			{
+				"buffer_size": 1747,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"FORM",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"form",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"up",
+				"SFTP: Upload File"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"merge",
+				"Emmet: Merge Lines"
+			],
+			[
+				"image",
+				"Emmet: Update Image Size"
+			],
+			[
+				"upda",
+				"Emmet: Update Image Size"
+			],
+			[
+				"",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"z",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"box",
+				"Snippet: box-shadow"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jbetz/clients/ascedia/milwaukee99awards/markel/web/index.html",
+		"/Users/jbetz/clients/markel/bike_and_event_ads/active.com/flash_src/clickTag/markel-active-bike-300x250.html",
+		"/Users/jbetz/clients/dartboard/notes/dart board meeting-notes030414.txt",
+		"/Users/jbetz/Desktop/onMonday",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jbetz/clients/roll/website_2013/exports/handoff/css/rollSiteHandoff.css",
+		"/Users/jbetz/clients/markel/bike_and_event_ads/active.com/flash_src/markel-active-300x250.html",
+		"/Users/jbetz/clients/markel/bike_and_event_ads/active.com/flash_src/markel-active-768x90.html",
+		"/Users/jbetz/clients/markel/bike_and_event_ads/active.com/flash_src/markel-bicycle-300x250_cs6.html",
+		"/Users/jbetz/clients/markel/bike_and_event_ads/active.com/flash_src/markel-bicycle-500x500_cs6.html",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jbetz/Documents/hours/hours2/RAW HOURS 101512 - 122112",
+		"/Users/jbetz/clients/roll/website_2013/rolltestanimate/whyrolltest.html",
+		"/Users/jbetz/clients/hoosier_lottery/powerball/xmlfeed/from-proxy.xml",
+		"/Users/jbetz/clients/hoosier_lottery/creative_from_msk/toMichelle/Flash elements/crossdomain.xml",
+		"/Users/jbetz/clients/GE/multivendor-repo/GE_Multivendor_Edge/build/main-map-experiment.html",
+		"/Users/jbetz/clients/GE/multivendor-repo/GE_Multivendor_Edge/insidePages/tech-solutions.html",
+		"/Users/jbetz/clients/GE/multivendor-repo/GE_Multivendor_Edge/insidePages/engineer-training.html",
+		"/Users/jbetz/clients/GE/multivendor-repo/GE_Multivendor_Edge/insidePages/tech-support.html",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Http Requester/README.md",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Http Requester/http_requester.py",
+		"/Users/jbetz/clients/masterlock/infographics/website/styles/styles.html",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+		"/Users/jbetz/clients/roll/proposals/presentation_deck/fonts/helvetica_neue_light_roll_test.ttx",
+		"/Users/jbetz/clients/roll/proposals/presentation_deck/fonts/helvetica_neue_light_roll.ttx",
+		"/Users/jbetz/clients/roll/proposals/presentation_deck/fonts/Helvetica Neue Light Roll.ttx",
+		"/Users/jbetz/clients/roll/proposals/presentation_deck/fonts/Helvetica Neue Light test.ttx",
+		"/Users/jbetz/clients/roll/proposals/presentation_deck/fonts/Helvetica Neue Light Roll.ttf",
+		"/Applications/Adobe Illustrator CS5/Presets.localized/Scripts/convertToAreaText.js",
+		"/Users/jbetz/clients/GE/sftp_directory/multivendor/static/multivendor/main-map_edgePreload.js",
+		"/Users/jbetz/clients/GE/sftp_directory/multivendor/static/multivendor/main-map_edgeActions.js",
+		"/Users/jbetz/clients/GE/sftp_directory/multivendor/static/multivendor/main-map_edge.js",
+		"/Users/jbetz/clients/GE/multivendor-mass-replace/010413_absolute_links/engineer-training_edgePreload.js",
+		"/Users/jbetz/Downloads/inspira.css",
+		"/Users/jbetz/clients/GE/multivendor-repo/GE_Multivendor_Edge/insidePages/experiment-object.html",
+		"/Users/jbetz/Downloads/main-map_edgePreload-3.js",
+		"/Users/jbetz/clients/GE/multivendor-js-files-from-site/preloader-deminified.js",
+		"/Users/jbetz/clients/GE/multivendor-js-files-from-site/main-map_edgePreload.js",
+		"/Users/jbetz/clients/GE/multivendor-mass-replace/121912_add_backversions/main-map_edgePreload.js",
+		"/Users/jbetz/Downloads/main-map_edgePreload-1.js",
+		"/Users/jbetz/clients/jeff/unity/penelope/penelope_demo/Assets/Scripts/Joystick.js",
+		"/Users/jbetz/Documents/Microsoft User Data/Entourage Sound Sets/customsound.eragesoundset/soundset.plist",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Unity3D Build System/README.md",
+		"/Users/jbetz/Documents/hours/hours2/hours for the week of 100112.rtf",
+		"/Users/jbetz/clients/GE/multivendor-mass-replace/multivendor-sitecore-files/files/tech-support_edge.js",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/mysnippets/color_a_scss.sublime-snippet",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/mysnippets/fontsize_lineheight.sublime-snippet",
+		"/Users/jbetz/clients/jeff/testproject/jquery.js",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Nettuts+ Fetch/package-metadata.json",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Inline Calculator/README.md",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Inline Calculator/Default (OSX).sublime-keymap",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Inc-Dec-Value/README.md",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/mymacros/hours_copy.sublime-macro",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/mymacros/convert_timesheet_hours.sublime-macro",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Eval Sel/README.md",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Eval Sel/eval_sel.sublime-settings",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/SFTP/Default (OSX).sublime-keymap",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/test.html",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Tag/Tag Package.sublime-settings",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Tag Package.sublime-settings",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/sftp-config.json",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/sftp-config-alt.json",
+		"/Users/jbetz/Library/Application Support/sublime text 2",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/css/styles.css",
+		"/Users/jbetz/clients/wonderopolis/website/styles_handoff_wonderopolis/scss/graphicstyles.scss",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/SCSS/README.markdown",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/scss/styles.scss",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/helloworld.py",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/SASS/README.md",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/google-search/README.md",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/.sass-cache/910edfb8b2957552ca7fc993461ca4b772c79088/_bullets.scssc",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Sublime-HTMLPrettify/README.md",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/README.rst",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/css/experiment.css",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/scss/experiment.scss",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/.sass-cache/e625724f5387dae690c3010059acac9464759cdc/_border-radius.scssc",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Emmet/README.md",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Prefixr/readme.creole",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/ImageMagick/README.md",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/SASS Build/readme.md",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/Sublime File Navigator/README.md",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/reference_images/2012-11-21-23931.png",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/reference_images/2012-11-21-23945.png",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/reference_images/2012-11-21-23939.png",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/reference_images/Screen Shot 2012-11-21 at 2.18.37 PM.png",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/reference_images/Screen Shot 2012-11-21 at 2.18.26 PM.png",
+		"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/reference_images/Screen Shot 2012-11-21 at 2.18.04 PM.png",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/zen-coding.sublime-settings",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/LiveReload/LiveReload.sublime-settings",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/LiveReload/README.md",
+		"/Users/jbetz/Library/Application Support/Sublime Text 2/Packages/User/LiveReload.sublime-settings",
+		"/Users/jbetz/clients/GE/multivendor-from-John/build/main-map_edgePreload.js",
+		"/Users/jbetz/clients/GE/multivendorTOEC/build/main-map_edge.js",
+		"/Users/jbetz/clients/GE/multivendorTOEC/build/main-map_edgeActions.js",
+		"/Users/jbetz/clients/GE/multivendorTOEC/build/SASS/multivendor.sass",
+		"/Users/jbetz/clients/GE/multivendorTOEC/toecbuild/CSS/multivendor.css",
+		"/Users/jbetz/clients/masterlock/vault-college-safty-tips/styles-handoff-ml-college/images/landing-page-logo-2x.png"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"kill_flag",
+			"SwitchInput",
+			"sw",
+			"Sw",
+			"sw",
+			"Sw",
+			"sw",
+			"SW",
+			"sw",
+			"NUM_SWITCHES",
+			"web_combi_nov4_crf24",
+			"web-render-combi-nov4-v1",
+			"-----------------------------------------------------------------------------------------",
+			"file:///Users/jbetz/clients/no-regrets-mens-ministries/style-tile/exports/",
+			"\"><source type=\"video/mp4\" src=\"\"></video>",
+			"<video video-display=\"\" h264=\"",
+			"-",
+			".png",
+			"file:///Users/jbetz/clients/foodmood/foodmood-app-project/config/ios/resources/splash/",
+			".png",
+			"file:///Users/jbetz/clients/foodmood/foodmood-app-project/config/ios/resources/icons/",
+			"5:30",
+			":00",
+			"clickTag",
+			"file:///Users/jbetz/clients/markel/bike_and_event_ads/active.com/flash_src",
+			"office",
+			"•          ",
+			"11:",
+			"10:",
+			"mark",
+			"reading",
+			"Food",
+			"office",
+			"Schlitterbahn",
+			"reading",
+			"conversations",
+			"wrap",
+			"\n-----------------------------------------------------------------------------------------",
+			"-----------------------------------------------------------------------------------------",
+			"markel",
+			"Markel",
+			"markel",
+			"Markel",
+			"markel",
+			"Markel",
+			"entering",
+			"ajbombers",
+			"OFF",
+			"\n",
+			"s",
+			"a",
+			"\n",
+			"msk",
+			"ftp://mskadve@ftpblue.ascedia.com",
+			"/",
+			"\n-----------------------------------------------------------------------------------------",
+			"-----------------------------------------------------------------------------------------\n",
+			"roll",
+			"-----------------------------------------------------------------------------------------\n",
+			"-----------------------------------------------------------------------------------------",
+			"17",
+			"\nFriday 062813\n\n0.5 daily morning Roll meeting\n0.5 reading and responding to email\n0.5 entering hours\n0.25  milk getting assets to Anne and helping to answer questions.\n0.5 r and d reading a css article\n3.75 trying to figure out font issue for Helvetica Neue, trying things on mac and pc, reading articles, trying to make a new font and trying to run and install command line programs that change fonts, testing the fonts that I made, trying to get around the font reading errrors and finally giving up for now. \n1:75 learning how to make a powerpoint presentation template. trying to make one for Roll",
+			"helvetica",
+			"Helvetica",
+			"HelveticaNeue",
+			"Roll Light",
+			"Light",
+			"Helvetica Neue",
+			"Helvetica Neue\nHelvetica Neue",
+			"Helvetica Neue",
+			"helvetica neue light\nhelvetica neue light",
+			"helvetica neue light",
+			"helvetica neue",
+			"0.25 daily morning Roll meeting\n0.25 office conversations\n0.16666666667 reading and responding to email\n0.21666666663 restarting computer and resetting passwords for computer\n0.8666666667 aurora styletiles\n0.25 entering hours for last Thursday and Friday\n0.25 aurora styletiles.\n0.25 aurora wireframe edits and exports\n1.5833333333 aurora wireframes cont...\n0.1666666667 lunch\n0.1833333333 Master Lock® infographic changes.\n0.85 talking with Mark and Kate about aurora style tiles and wireframes. \n0.25 reading and responding to email\n0.1333333333 talking to bruce - admitting my fault.\n2.1166666667 wireframes aurora.\n3.25 style tile\n1.3333333333 style tile\n",
+			"17",
+			"preloader",
+			"Techica",
+			"\"loaded\"",
+			"dog",
+			"aif",
+			"fold",
+			"wrap",
+			":",
+			"8",
+			":",
+			" ",
+			"sar",
+			"	",
+			"daily",
+			"super",
+			"ctrl",
+			"1",
+			"switch_file",
+			"switch",
+			"10px",
+			"margin",
+			"blackText",
+			"Music",
+			"music",
+			"80px",
+			"95",
+			"   <div class=\"tanOverlay\">\n        	<div class=\"mainNav\"><a href=\"#\">Navigation Item</a></div>\n        	<div class=\"mainNav\"><a href=\"#\">Navigation Item</a></div>\n        	<div class=\"mainNav\"><span class=\"mainNavSelected\"><a href=\"#\">Navigation Item</a></span></div>\n        	<div class=\"mainNav\"><a href=\"#\">Navigation Item</a></div>",
+			"font-weight",
+			"noBorder",
+			"storyDescription",
+			"%;\n",
+			"addEllipsis",
+			"div",
+			"8px",
+			"5px",
+			"absolute",
+			"top: 0px;",
+			"reviewBubble",
+			"tan",
+			"tanOverlay",
+			"100% auto",
+			"socialBlock",
+			"    \n",
+			"content-box",
+			"li",
+			"background",
+			"	",
+			"side_bar",
+			"mobile",
+			"mobilePhoneImage",
+			"25",
+			"20",
+			"DASH"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Rollvetica",
+			":",
+			"width",
+			"im+'"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "DontForgetToFeedThatDog-v2.ino",
+					"settings":
+					{
+						"buffer_size": 4570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								715,
+								715
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/jbetz/Documents/Arduino/libraries/mthread-master/examples/switch_test/switch_test.pde",
+					"settings":
+					{
+						"buffer_size": 2355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1887,
+								1898
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/jbetz/Documents/Arduino/libraries/mthread-master/examples/serial_test/serial_test.pde",
+					"settings":
+					{
+						"buffer_size": 1747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1421,
+								1421
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.854472257653,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.1434920394.53":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 27.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"scss/styles.scss"
+			],
+			[
+				"te",
+				"test.html"
+			],
+			[
+				"sty",
+				"scss/styles.scss"
+			],
+			[
+				"15",
+				".sass-cache/910edfb8b2957552ca7fc993461ca4b772c79088/_bullets.scssc"
+			],
+			[
+				"e",
+				"css/experiment.css"
+			],
+			[
+				"s",
+				"css/styles.css"
+			],
+			[
+				"mai",
+				"/Users/jbetz/clients/GE/multivendor-mass-replace/build/main-map_edgePreload.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jbetz/clients/roll/website_2013/rolltestanimate/rolltest.sublime-project"
+			],
+			[
+				"k",
+				"/Users/jbetz/clients/komen/build/komen.sublime-project"
+			],
+			[
+				"88",
+				"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/88nineRip.sublime-project"
+			],
+			[
+				"8",
+				"/Users/jbetz/clients/88nine-radio-milwaukee/responsive-site-2012/rip_css/88nineRip.sublime-project"
+			],
+			[
+				"ge",
+				"/Users/jbetz/clients/GE/multivendor-repo/GE_Multivendor_Edge/ge_multivendor.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true
+}
